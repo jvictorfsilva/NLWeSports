@@ -21,7 +21,8 @@ export const styles = StyleSheet.create({
   },
   buttonTitle: {
     color: THEME.COLORS.TEXT,
-    fontFamily: THEME.COLORS.SEMI_BOLD,
+    fontFamily: THEME.FONT_FAMILY.SEMI_BOLD,
     fontsize: THEME.FONT_SIZE.SM,
+    marginLeft: 8,
   },
 });
